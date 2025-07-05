@@ -1,1 +1,8 @@
-int main (){}
+#include <istream>
+
+using namespace std;
+
+int main()
+{
+    return 0;
+}
