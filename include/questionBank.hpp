@@ -7,14 +7,18 @@
 #include <memory>
 #include <fstream>
 #include <sstream>
+#include <iostream>
+#include <map>
 
 using namespace std;
 
 class QuestionBank
 {
 private:
-    vector<shared_ptr<Question>> questions;
-    bool loadFromCSV(const string &filepath); 
+    map<int, shared_ptr<Question>> questions;
+
+public:
+    bool loadFromCSV(const string &filepath);
 };
 
 #endif

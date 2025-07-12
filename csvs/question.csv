@@ -1,0 +1,19 @@
+﻿qusetionId,questionText,answerText,correctOpt,difficulty,subject
+1,What is H2O?,water,3,easy,Chemistry
+2,What is the chemical formula for salt?,NaCl,1,medium,Chemistry
+3,What is the symbol for gold?,Au,3,medium,Chemistry
+4,What is the symbol for iron?,Fe,2,easy,Chemistry
+5,Which gas do plants absorb?,Carbon,3,hard,Chemistry
+6,Which is a noble gas?,Helium,2,easy,Chemistry
+7,What force slows moving objects?,Friction,3,easy,Physics
+8,What is the hardest natural substance?,Diamond,2,easy,Physics
+9,What pulls objects to the ground?,Gravity,2,easy,Physics
+10,What is the Earth's primary energy source?,Sun,3,medium,Physics
+11,What is the unit of force?,Newton,2,medium,Physics
+12,What is the unit of electric current?,Ampere,2,hard,Physics
+13,What is 7 * 3?,21,2,easy,Math
+14,What is 2 + 3?,5,2,easy,Math
+15,What is 3 squared?,9,3,easy,Math
+16,What is 8 + 9?,17,3,medium,Math
+17,What is 10 Ã· 2?,5,2,medium,Math
+18,What is 15 - 8?,7,2,hard,Math
